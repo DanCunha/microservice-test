@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="eureka-server"/>
-<aop-project name="loja-microservice"/>
-<aop-project name="fornecedor-microservice"/>
-</aop-reference-model>
