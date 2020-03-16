@@ -1,0 +1,13 @@
+package com.example.lojamicroservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LojaMicroserviceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LojaMicroserviceApplication.class, args);
+	}
+
+}
