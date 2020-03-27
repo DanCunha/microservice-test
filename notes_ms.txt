@@ -1,0 +1,7 @@
+Microservice Notes
+
+Create Fornecedor
+	Dependency: Config Client
+
+Create Config Server
+	Dependency: Spring Config Server
