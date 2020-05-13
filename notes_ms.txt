@@ -1,7 +1,20 @@
 Microservice Notes
 
+Create Loja
+	Dependency: Eureka Discovery Client
+                OpenFeign
+                Spring Web
+
 Create Fornecedor
 	Dependency: Config Client
 
 Create Config Server
 	Dependency: Spring Config Server
+	
+Create Eureka Server
+	Dependency: Eureka Server
+	
+	
+Config Logs:
+	PaperTrail agregador de log on line
+	Dependency: Spring Sleuth
